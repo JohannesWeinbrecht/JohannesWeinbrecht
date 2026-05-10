@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, my name is Johannes
+
+My name is Johannes and I am currently studying Computer Science at DHBW Karlsruhe in cooperation with KIT.
 
 <!--
 **JohannesWeinbrecht/JohannesWeinbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
